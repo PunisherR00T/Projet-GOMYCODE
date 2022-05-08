@@ -1,0 +1,158 @@
+#responsive-navbar-nav {
+    justify-content: space-evenly;
+}
+
+#registerkey {
+    margin: 0 0 0 0;
+
+
+}
+
+#forgotmdp {
+    cursor: pointer;
+}
+
+#popfooter {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    margin: auto;
+
+}
+.popbtn {
+    margin: 0 0 20px 0;
+}
+
+#mdpbtn {
+    margin: 0 0 0 -16px;
+}
+
+#wrapregis{
+    margin: 5% 26% 0 26%;
+}
+
+#newaccbtn {
+    display: flex;
+    flex-direction: row;
+    margin: 14px 0 0 0;
+}
+
+#noacc {
+    align-self: center;
+    margin: 0 13px 0 0;
+}
+
+#divnum {
+        margin: 0 0 30px 0;
+}
+
+#navgloBal{
+    position: sticky;
+}
+
+#Section {
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+#decobtn {
+    justify-content: center;
+}
+#navbarScroll{
+    justify-content: center;
+
+}
+
+#carcard {
+    margin: 0 2% 0 2%;
+}
+
+#profile {
+    display: flex;
+    flex-direction: column;
+}
+
+#Addpost{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 4% 20% 4% 20%;
+}
+#cardinf { 
+    padding: 13% 4% 13% 4%;
+}
+.d-blockw-100 {
+    width: fit-content;
+}
+
+#approval {
+    display: flex;
+}
+
+#profileBtns {
+
+    margin: 0 0 35px 0;
+
+}
+
+.flex {
+    display: flex;
+    /* border-style: solid;
+    border-width: 10px;
+    border-color: steelblue;
+    border-radius: 22px; */
+}
+
+#changemdpflex {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#settingsicon {
+    cursor: pointer;
+}
+
+.imgcarous {
+    width: 110%;
+    max-width: 110%;
+}
+
+.stackimg{
+    margin: -30px 0 0 0;
+}
+
+#forminpt {
+    padding: 13px 0 0 0;
+}
+
+#firstcom {
+    margin: 8% 0 10% 0;
+}
+
+#secondcom {
+    margin: 0 0 6% 0;
+}
+
+#thirdcom {
+    margin: 5% 0 10% 0;
+}
+
+#TNflag {
+    width: 39px;
+
+}
+
+#taswira {
+    display: flex;
+}
+
+#suffix {
+    align-self: center;
+}
+
+#footer {
+    margin: 100px 0 0 0;
+}
